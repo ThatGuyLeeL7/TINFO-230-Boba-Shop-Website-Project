@@ -1,0 +1,35 @@
+img {
+	width: 300px;
+}
+
+h1 {
+	padding: 5px;
+	font-family: "Arial";
+	font-size: 24px;
+	color: #FFFFFF;
+	background-color: rgb(255%, 0%, 0%); /* Background Color */
+}
+
+#author-name-and-date {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #D3D3D3;
+}
+
+p {
+	font-family: "Arial";
+	font-size: 16px;
+	color: #808080;
+}
+
+ol {
+	font-family: "Arial";
+	font-size: 16px;
+	color: #808080;
+}
+
+a {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #0000FF;
+}
