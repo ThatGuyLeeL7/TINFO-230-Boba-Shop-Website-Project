@@ -1,0 +1,47 @@
+img {
+	width: 50px;
+}
+.slevel-logo {
+  width: 80px;
+  height: auto;
+}
+.social-logo {
+  width: 50px;
+  height: auto;
+}
+h1 {
+	padding: 5px;
+	font-family: "Arial";
+	font-size: 15px;
+	color: #FFFFFF;
+	background-color: rgb(0%, 0%, 0%); /* Background Color */
+}
+
+h2 {
+	padding: 5px;
+	font-family: "Arial";
+	font-size: 24px;
+	color: #FFFFFF;
+	background-color: rgb(0%, 0%, 0%); /* Background Color */
+}
+
+
+#author-name-and-date {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #D3D3D3;
+}
+
+p {
+	font-family: "Arial";
+	font-size: 16px;
+	color: #808080;
+}
+
+
+
+a {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #0000FF;
+}
