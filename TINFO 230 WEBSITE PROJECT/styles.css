@@ -20,6 +20,7 @@ img {
 	height: auto;
 }
 
+/*Title*/
 h1 {
 	padding: 5px;
 	font-family: 'Californian FB';
@@ -27,19 +28,12 @@ h1 {
 }
 
 h2 {
-	padding-top: 25px;
+	padding-top: 5px;
 	font-family: "Californian FB";
 	font-size: 30px;
 }
 
-
-p {
-	font-family: "Californian FB";
-	font-size: 16px;
-}
-
-
-
+/*Navigation bar*/
 h3 {
 	word-spacing: 30px;
 	text-indent: 10px;
@@ -48,6 +42,8 @@ h3 {
 	font-size: 20px;
 }
 
+
+/*Hyperlinks*/
 a:link {
 	color: gold;
 	background-color: transparent;
@@ -70,4 +66,22 @@ a:active {
 	color: yellow;
 	background-color: transparent;
 	text-decoration: underline;
+}
+
+a.Expand {
+	color: blue;
+	background-color: transparent;
+	text-decoration: underline;
+}
+	a.Expand:hover {
+		color: red;
+		background-color: transparent;
+		text-decoration: underline;
+		font-size: 120%;
+	}
+
+a.Home {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
 }
