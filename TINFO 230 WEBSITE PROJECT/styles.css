@@ -1,8 +1,12 @@
+body {
+	background-color: black;
+}
+
 img {
 	width: 50px;
 }
 .slevel-logo {
-  width: 80px;
+  width: 200px;
   height: auto;
 }
 .social-logo {
@@ -10,8 +14,8 @@ img {
   height: auto;
 }
 
-.boba-tea {
-	width: 200px;
+.menuIMG {
+	width: 300px;
 	height: auto;
 }
 
@@ -19,6 +23,7 @@ img {
 	width: 200px;
 	height: auto;
 }
+
 
 /*Title*/
 h1 {
@@ -41,43 +46,44 @@ h3 {
 	font-size: 20px;
 }
 
+main {
+	background-color: white;
+	margin: 25px;
+	padding: 25px;
+	border: 1px solid #4CAF50;
+}
+
+button {
+	font-size: 20px;
+}
+
 
 /*Hyperlinks*/
 a:link {
-	color: black;
+	text-align: right;
+	color: white;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:visited {
-	color: black;
+	color: white;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:hover {
-	color: black;
+	color: white;
 	background-color: transparent;
 	text-decoration: underline;
 }
 
 a:active {
-	color: black;
+	color: white;
 	background-color: transparent;
 	text-decoration: underline;
 }
 
-a.Expand {
-	color: blue;
-	background-color: transparent;
-	text-decoration: underline;
-}
-	a.Expand:hover {
-		color: red;
-		background-color: transparent;
-		text-decoration: underline;
-		font-size: 120%;
-	}
 
 a.Home {
 	color: black;
