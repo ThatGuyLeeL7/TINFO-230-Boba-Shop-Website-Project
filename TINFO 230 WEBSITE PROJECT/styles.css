@@ -101,38 +101,38 @@ a.Home {
 
 /*Header Buttons*/
 .header-btn:link {
-	font-size: 25px;
+	font-size: 20px;
 	padding: 10px 20px;
 	border-radius: 30px;
 	text-align: right;
 	color: white;
-	background-color: #de8825;
+	background-color: forestgreen;
 	text-decoration: none;
 }
 
 .header-btn:visited {
-	font-size: 25px;
+	font-size: 20px;
 	padding: 10px 20px;
 	border-radius: 30px;
 	color: white;
-	background-color: #de8825;
+	background-color: forestgreen;
 	text-decoration: none;
 }
 
 .header-btn:hover {
-	font-size: 25px;
+	font-size: 20px;
 	padding: 10px 20px;
 	border-radius: 30px;
 	color: white;
-	background-color: #bb6502;
+	background-color: forestgreen;
 	text-decoration: underline;
 }
 
 .header-btn:active {
-	font-size: 25px;
+	font-size: 20px;
 	padding: 10px 20px;
 	border-radius: 30px;
 	color: white;
-	background-color: #a95300;
+	background-color: forestgreen;
 	text-decoration: underline;
 }
