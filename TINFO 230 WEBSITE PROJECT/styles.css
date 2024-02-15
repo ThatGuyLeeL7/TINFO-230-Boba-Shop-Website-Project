@@ -10,7 +10,7 @@ img {
   height: auto;
 }
 .social-logo {
-  width: 25px;
+  width: 35px;
   height: auto;
 }
 
@@ -26,12 +26,16 @@ img {
 	border-radius: 5px;
 }
 
+p {
+	font-size: 18px;
+}
+
 
 /*Title*/
 h1 {
-	padding: 5px;
+	padding-top: 5px;
 	font-family: 'Californian FB';
-	font-size: 40px;
+	font-size: 45px;
 }
 
 h2 {
@@ -51,7 +55,7 @@ h3 {
 h4 {
 	text-indent: 10px;
 	font-family: "Californian FB";
-	font-size: 20px;
+	font-size: 25px;
 }
 
 h5 {
